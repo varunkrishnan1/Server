@@ -1,0 +1,28 @@
+{
+  "student": [
+    {
+      "id": "b96d",
+      "name": "Nithin",
+      "course": "BBA",
+      "grade": "A+"
+    },
+    {
+      "id": "eeba",
+      "name": "Varun",
+      "course": "BCA",
+      "grade": "A"
+    },
+    {
+      "id": "14a3",
+      "name": "Achu",
+      "course": "BCA",
+      "grade": "A"
+    },
+    {
+      "id": "29b8",
+      "name": "Rani Babu",
+      "course": "BBA",
+      "grade": "A"
+    }
+  ]
+}
